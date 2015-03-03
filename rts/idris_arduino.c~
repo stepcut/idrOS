@@ -1,0 +1,4 @@
+void idrard_digitalWrite(int pin, int val)
+{
+
+}
